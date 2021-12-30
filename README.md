@@ -2,4 +2,4 @@
 
 Description goes here
 
-:: Commit changes will save the file
+# Commit changes will save the file
